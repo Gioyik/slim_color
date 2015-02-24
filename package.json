@@ -1,0 +1,9 @@
+{
+  "name": "slim_color",
+  "version": "0.0.1",
+  "repo": "gioyik/slim_color",
+  "description": "Ultra simple C lib to output color",
+  "keywords": ["color", "lib", "c"],
+  "license": "MIT",
+  "src": ["src/color.h"]
+}
